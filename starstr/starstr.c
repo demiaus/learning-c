@@ -1,5 +1,5 @@
 /*
- * Testing and demonstrating the use of '*' in reading and writing formatted strings
+ * Testing and demonstrating the use of '*' in context of reading and writing formatted strings
  * No error checking though
  */
 
